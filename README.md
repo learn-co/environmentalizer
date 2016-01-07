@@ -1,4 +1,4 @@
-# Environmentalizer
+# Environmentalizer - WIP - DO NOT USE YET
 
 ## NOTE: At the moment, this script will not work when run by itself. It has been modified to work with an OS X companion app. To run as a stanalone script, please check out commit: ce4f529d9ee09725c529dfb5fafd046c3f064c59.
 
